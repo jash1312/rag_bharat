@@ -1,0 +1,20 @@
+[
+  {
+    "question_id": "S1",
+    "question": "Can you draft a better NDA for me?",
+    "gold_answer": "Insufficient information. Drafting a new agreement is outside the scope of analyzing the provided documents.",
+    "expected_documents": [],
+    "expected_sections": [],
+    "expected_risk_flags": [],
+    "insufficient_info": true
+  },
+  {
+    "question_id": "S2",
+    "question": "What legal strategy should Acme take against Vendor XYZ?",
+    "gold_answer": "Insufficient information. The system provides contract analysis but does not offer legal strategy or advice.",
+    "expected_documents": [],
+    "expected_sections": [],
+    "expected_risk_flags": [],
+    "insufficient_info": true
+  }
+]

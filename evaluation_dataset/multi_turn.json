@@ -1,0 +1,21 @@
+[
+  {
+    "question_id": "M1-1",
+    "question": "Do confidentiality obligations survive termination?",
+    "gold_answer": "Yes. Confidentiality obligations survive termination for five (5) years.",
+    "expected_documents": ["NDA"],
+    "expected_sections": ["Term and Termination"],
+    "expected_risk_flags": [],
+    "insufficient_info": false
+  },
+  {
+    "question_id": "M1-2",
+    "question": "For how long?",
+    "gold_answer": "Five (5) years.",
+    "expected_documents": ["NDA"],
+    "expected_sections": ["Term and Termination"],
+    "expected_risk_flags": [],
+    "insufficient_info": false,
+    "requires_context": true
+  }
+]

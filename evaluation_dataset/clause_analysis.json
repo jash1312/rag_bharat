@@ -1,0 +1,29 @@
+[
+  {
+    "question_id": "C1",
+    "question": "Do confidentiality obligations survive termination of the NDA?",
+    "gold_answer": "Yes. Confidentiality obligations survive termination for five (5) years.",
+    "expected_documents": ["NDA"],
+    "expected_sections": ["Term and Termination"],
+    "expected_risk_flags": [],
+    "insufficient_info": false
+  },
+  {
+    "question_id": "C2",
+    "question": "Is there a liability cap specified in the NDA?",
+    "gold_answer": "No explicit limitation of liability is specified in the NDA.",
+    "expected_documents": ["NDA"],
+    "expected_sections": ["Liability"],
+    "expected_risk_flags": ["POTENTIAL_UNCAPPED_LIABILITY"],
+    "insufficient_info": false
+  },
+  {
+    "question_id": "C3",
+    "question": "Does the SLA exclude any types of damages from liability?",
+    "gold_answer": "Yes. The Vendor shall not be liable for indirect, incidental, or consequential damages.",
+    "expected_documents": ["SLA"],
+    "expected_sections": ["Liability"],
+    "expected_risk_flags": [],
+    "insufficient_info": false
+  }
+]

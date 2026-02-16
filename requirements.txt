@@ -1,0 +1,25 @@
+# Core
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# Embeddings & LLM (use openai and/or ollama depending on PROVIDER)
+openai>=1.0.0
+tiktoken>=0.5.0
+ollama>=0.3.0
+
+# Vector store & retrieval
+chromadb>=0.4.0
+rank-bm25>=0.2.2
+sentence-transformers>=2.2.0
+
+# Notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=8.0.0
+
+# Utilities
+numpy>=1.24.0
+scikit-learn>=1.3.0
+tqdm>=4.65.0
+pandas>=1.5.0

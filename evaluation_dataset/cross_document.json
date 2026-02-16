@@ -1,0 +1,20 @@
+[
+  {
+    "question_id": "RK1",
+    "question": "Is there any unlimited liability in the agreements?",
+    "gold_answer": "The NDA does not specify any explicit limitation of liability, which may result in uncapped liability exposure.",
+    "expected_documents": ["NDA"],
+    "expected_sections": ["Liability"],
+    "expected_risk_flags": ["POTENTIAL_UNCAPPED_LIABILITY"],
+    "insufficient_info": false
+  },
+  {
+    "question_id": "RK2",
+    "question": "Are there any clauses that could pose financial risk to Acme Corp?",
+    "gold_answer": "The SLA states that service credits are the sole and exclusive remedy for uptime failures. The NDA does not specify a liability cap. These provisions may limit recovery or create uncapped exposure.",
+    "expected_documents": ["SLA", "NDA"],
+    "expected_sections": ["Service Credits", "Liability"],
+    "expected_risk_flags": ["SOLE_REMEDY_LIMITATION", "POTENTIAL_UNCAPPED_LIABILITY"],
+    "insufficient_info": false
+  }
+]

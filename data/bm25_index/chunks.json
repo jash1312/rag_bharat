@@ -1,0 +1,537 @@
+[
+{
+"document": "Data Processing Agreement",
+"section": "1",
+"title": "Scope and Purpose",
+"clause_text": "Processor shall process personal data solely for providing services under the Vendor Services Agreement.",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"general"
+],
+"keywords": [],
+"document_type": "DPA",
+"primary_clause_type": null,
+"custom": {}
+},
+"chunk_id": "chunk_0"
+},
+{
+"document": "Data Processing Agreement",
+"section": "2",
+"title": "Data Security",
+"clause_text": "Processor shall implement appropriate technical and organizational measures to protect personal data.",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"general"
+],
+"keywords": [],
+"document_type": "DPA",
+"primary_clause_type": null,
+"custom": {}
+},
+"chunk_id": "chunk_1"
+},
+{
+"document": "Data Processing Agreement",
+"section": "3",
+"title": "Data Breach Notification",
+"clause_text": "In the event of a personal data breach:\nProcessor shall notify Controller without undue delay\nIn any case, notification shall occur within 72 hours of becoming aware of the breach",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"general"
+],
+"keywords": [],
+"document_type": "DPA",
+"primary_clause_type": null,
+"custom": {}
+},
+"chunk_id": "chunk_2"
+},
+{
+"document": "Data Processing Agreement",
+"section": "4",
+"title": "Subprocessors",
+"clause_text": "Processor may engage subprocessors with prior written authorization.",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"general"
+],
+"keywords": [],
+"document_type": "DPA",
+"primary_clause_type": null,
+"custom": {}
+},
+"chunk_id": "chunk_3"
+},
+{
+"document": "Data Processing Agreement",
+"section": "5",
+"title": "Liability",
+"clause_text": "The DPA does not specify an independent liability cap and relies on the Vendor Services Agreement.",
+"metadata": {
+"governing_law": false,
+"liability_related": true,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"liability"
+],
+"keywords": [],
+"document_type": "DPA",
+"primary_clause_type": "liability",
+"custom": {}
+},
+"chunk_id": "chunk_4"
+},
+{
+"document": "Data Processing Agreement",
+"section": "6",
+"title": "Governing Law",
+"clause_text": "This DPA shall be governed by the laws of the European Union (GDPR) and, where applicable, local member state law.",
+"metadata": {
+"governing_law": true,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"governing_law"
+],
+"keywords": [],
+"document_type": "DPA",
+"primary_clause_type": "governing_law",
+"custom": {}
+},
+"chunk_id": "chunk_5"
+},
+{
+"document": "Nda Acme Vendor",
+"section": "1",
+"title": "Definition of Confidential Information",
+"clause_text": "\u201cConfidential Information\u201d means any non-public information disclosed by the Disclosing Party, including but not limited to business plans, technical data, customer information, pricing, and trade secrets.\nInformation shall not be considered confidential if it:\nIs publicly available without breach of this Agreement",
+"metadata": {
+"governing_law": false,
+"liability_related": true,
+"termination_related": false,
+"confidentiality_related": true,
+"indemnification_related": false,
+"clause_types": [
+"liability",
+"confidentiality"
+],
+"keywords": [],
+"document_type": "NDA",
+"primary_clause_type": "confidentiality",
+"custom": {}
+},
+"chunk_id": "chunk_6"
+},
+{
+"document": "Nda Acme Vendor",
+"section": "1",
+"title": "Was lawfully known prior to disclosure",
+"clause_text": "Is independently developed without use of Confidential Information",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": true,
+"indemnification_related": false,
+"clause_types": [
+"confidentiality"
+],
+"keywords": [],
+"document_type": "NDA",
+"primary_clause_type": "confidentiality",
+"custom": {}
+},
+"chunk_id": "chunk_7"
+},
+{
+"document": "Nda Acme Vendor",
+"section": "2",
+"title": "Confidentiality Obligations",
+"clause_text": "The Receiving Party shall:\nUse Confidential Information solely for the permitted business purpose\nNot disclose Confidential Information to third parties without prior written consent\nProtect Confidential Information using at least reasonable care",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": true,
+"indemnification_related": false,
+"clause_types": [
+"confidentiality"
+],
+"keywords": [],
+"document_type": "NDA",
+"primary_clause_type": "confidentiality",
+"custom": {}
+},
+"chunk_id": "chunk_8"
+},
+{
+"document": "Nda Acme Vendor",
+"section": "3",
+"title": "Term and Termination",
+"clause_text": "This Agreement shall remain in effect for three (3) years from the effective date.\nEither party may terminate this Agreement with thirty (30) days written notice.\nConfidentiality obligations shall survive termination for five (5) years.",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": true,
+"confidentiality_related": true,
+"indemnification_related": false,
+"clause_types": [
+"termination",
+"confidentiality"
+],
+"keywords": [],
+"document_type": "NDA",
+"primary_clause_type": "termination",
+"custom": {}
+},
+"chunk_id": "chunk_9"
+},
+{
+"document": "Nda Acme Vendor",
+"section": "4",
+"title": "Liability",
+"clause_text": "The Receiving Party shall be liable for damages arising from breach of this Agreement.\nNo explicit limitation of liability is specified.",
+"metadata": {
+"governing_law": false,
+"liability_related": true,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"liability"
+],
+"keywords": [],
+"document_type": "NDA",
+"primary_clause_type": "liability",
+"custom": {}
+},
+"chunk_id": "chunk_10"
+},
+{
+"document": "Nda Acme Vendor",
+"section": "5",
+"title": "Governing Law",
+"clause_text": "This Agreement shall be governed by the laws of the State of California, USA.",
+"metadata": {
+"governing_law": true,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"governing_law"
+],
+"keywords": [],
+"document_type": "NDA",
+"primary_clause_type": "governing_law",
+"custom": {}
+},
+"chunk_id": "chunk_11"
+},
+{
+"document": "Service Level Agreement",
+"section": "1",
+"title": "Service Availability",
+"clause_text": "Vendor shall ensure 99.5% monthly uptime.",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"service_availability"
+],
+"keywords": [
+"uptime",
+"availability",
+"99.5%"
+],
+"document_type": "SLA",
+"primary_clause_type": null,
+"custom": {}
+},
+"chunk_id": "chunk_12"
+},
+{
+"document": "Service Level Agreement",
+"section": "2",
+"title": "Service Credits",
+"clause_text": "If uptime falls below the agreed threshold:\nVendor shall provide service credits as defined in Schedule B",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"service_availability",
+"service_credits"
+],
+"keywords": [],
+"document_type": "SLA",
+"primary_clause_type": "uptime",
+"custom": {}
+},
+"chunk_id": "chunk_13"
+},
+{
+"document": "Service Level Agreement",
+"section": "3",
+"title": "Exclusions",
+"clause_text": "Downtime caused by:",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"general"
+],
+"keywords": [],
+"document_type": "SLA",
+"primary_clause_type": null,
+"custom": {}
+},
+"chunk_id": "chunk_14"
+},
+{
+"document": "Service Level Agreement",
+"section": "3",
+"title": "Scheduled maintenance",
+"clause_text": "Force majeure events",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"general"
+],
+"keywords": [],
+"document_type": "SLA",
+"primary_clause_type": null,
+"custom": {}
+},
+"chunk_id": "chunk_15"
+},
+{
+"document": "Service Level Agreement",
+"section": "4",
+"title": "Customer misconfiguration",
+"clause_text": "shall be excluded from uptime calculations.",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"service_availability"
+],
+"keywords": [],
+"document_type": "SLA",
+"primary_clause_type": "uptime",
+"custom": {}
+},
+"chunk_id": "chunk_16"
+},
+{
+"document": "Service Level Agreement",
+"section": "4",
+"title": "Liability",
+"clause_text": "Vendor shall not be liable for indirect, incidental, or consequential damages.",
+"metadata": {
+"governing_law": false,
+"liability_related": true,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"liability",
+"damage_exclusion"
+],
+"keywords": [],
+"document_type": "SLA",
+"primary_clause_type": "liability",
+"custom": {}
+},
+"chunk_id": "chunk_17"
+},
+{
+"document": "Vendor Services Agreement",
+"section": "1",
+"title": "Scope of Services",
+"clause_text": "Vendor shall provide software development and maintenance services as described in Schedule A.",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"general"
+],
+"keywords": [],
+"document_type": "VSA",
+"primary_clause_type": null,
+"custom": {}
+},
+"chunk_id": "chunk_18"
+},
+{
+"document": "Vendor Services Agreement",
+"section": "2",
+"title": "Payment Terms",
+"clause_text": "Acme Corp shall pay Vendor a fixed monthly fee. Late payments may incur interest.",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"general"
+],
+"keywords": [],
+"document_type": "VSA",
+"primary_clause_type": null,
+"custom": {}
+},
+"chunk_id": "chunk_19"
+},
+{
+"document": "Vendor Services Agreement",
+"section": "3",
+"title": "Indemnification",
+"clause_text": "Vendor agrees to indemnify, defend, and hold harmless Acme Corp from any third-party claims arising from:",
+"metadata": {
+"governing_law": false,
+"liability_related": true,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": true,
+"clause_types": [
+"liability",
+"indemnification"
+],
+"keywords": [],
+"document_type": "VSA",
+"primary_clause_type": "indemnification",
+"custom": {}
+},
+"chunk_id": "chunk_20"
+},
+{
+"document": "Vendor Services Agreement",
+"section": "3",
+"title": "Intellectual property infringement",
+"clause_text": "Vendor\u2019s negligence or willful misconduct",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"general"
+],
+"keywords": [],
+"document_type": "VSA",
+"primary_clause_type": null,
+"custom": {}
+},
+"chunk_id": "chunk_21"
+},
+{
+"document": "Vendor Services Agreement",
+"section": "4",
+"title": "Limitation of Liability",
+"clause_text": "Except for indemnification obligations and gross negligence:\nEach party\u2019s total liability shall not exceed the total fees paid in the preceding 12 months",
+"metadata": {
+"governing_law": false,
+"liability_related": true,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": true,
+"clause_types": [
+"liability",
+"indemnification"
+],
+"keywords": [],
+"document_type": "VSA",
+"primary_clause_type": "liability",
+"custom": {}
+},
+"chunk_id": "chunk_22"
+},
+{
+"document": "Vendor Services Agreement",
+"section": "5",
+"title": "Termination",
+"clause_text": "Either party may terminate:\nFor convenience, with 60 days written notice\nImmediately, in case of material breach not cured within 15 days",
+"metadata": {
+"governing_law": false,
+"liability_related": false,
+"termination_related": true,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"termination"
+],
+"keywords": [],
+"document_type": "VSA",
+"primary_clause_type": "termination",
+"custom": {}
+},
+"chunk_id": "chunk_23"
+},
+{
+"document": "Vendor Services Agreement",
+"section": "6",
+"title": "Governing Law",
+"clause_text": "This Agreement shall be governed by the laws of England and Wales.",
+"metadata": {
+"governing_law": true,
+"liability_related": false,
+"termination_related": false,
+"confidentiality_related": false,
+"indemnification_related": false,
+"clause_types": [
+"governing_law"
+],
+"keywords": [],
+"document_type": "VSA",
+"primary_clause_type": "governing_law",
+"custom": {}
+},
+"chunk_id": "chunk_24"
+}
+]

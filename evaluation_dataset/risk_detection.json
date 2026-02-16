@@ -1,0 +1,38 @@
+[
+    {
+      "question_id": "R1",
+      "question": "What is the notice period for terminating the NDA?",
+      "gold_answer": "Either party may terminate the NDA with thirty (30) days written notice.",
+      "expected_documents": ["NDA"],
+      "expected_sections": ["Term and Termination"],
+      "expected_risk_flags": [],
+      "insufficient_info": false
+    },
+    {
+      "question_id": "R2",
+      "question": "What is the uptime commitment under the SLA?",
+      "gold_answer": "Vendor shall ensure 99.5% monthly uptime.",
+      "expected_documents": ["SLA"],
+      "expected_sections": ["Service Availability"],
+      "expected_risk_flags": [],
+      "insufficient_info": false
+    },
+    {
+      "question_id": "R3",
+      "question": "What is the governing law of the Vendor Services Agreement?",
+      "gold_answer": "The Vendor Services Agreement is governed by the laws of England and Wales.",
+      "expected_documents": ["Vendor Services Agreement"],
+      "expected_sections": ["Governing Law"],
+      "expected_risk_flags": [],
+      "insufficient_info": false
+    },
+    {
+      "question_id": "R4",
+      "question": "What is the data breach notification timeline under the DPA?",
+      "gold_answer": "Processor shall notify the Controller without undue delay and in any case within 72 hours of becoming aware of the breach.",
+      "expected_documents": ["DPA"],
+      "expected_sections": ["Data Breach Notification"],
+      "expected_risk_flags": [],
+      "insufficient_info": false
+    }
+  ]
